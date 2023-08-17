@@ -82,28 +82,3 @@ function App() {
 
 export default App;
 
-// const NewDice = () => {
-//   const Dice= [];
-//   for(let i = 0; i < 10; i++){
-//     Dice.push(Math.ceil(Math.random() * 6));
-//   }
-//   return Dice;
-// }
-// console.log(NewDice())
-
-// return (
-//   <main>
-//     <div className="die-grid">
-//       <DieComponent value="1"/>
-//       <DieComponent value="2"/>
-//       <DieComponent value="3"/>
-//       <DieComponent value="4"/>
-//       <DieComponent value="5"/>
-//       <DieComponent value="6"/>
-//       <DieComponent value="7"/>
-//       <DieComponent value="8"/>
-//       <DieComponent value="9"/>
-//       <DieComponent value="0"/>
-
-//     </div>
-//   </main>
